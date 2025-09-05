@@ -86,9 +86,9 @@ Throughout the challenge, I’ll build small apps:
 
 ## 📣 Follow Along  
 I’ll share my journey here and on social media:  
-- Twitter: [@YourHandle](https://twitter.com)  
-- LinkedIn: [Your Name](https://linkedin.com)  
-- GitHub: [YourUsername](https://github.com/YourUsername)  
+- Twitter: [@YourHandle](https://x.com/iMazanis)  
+- LinkedIn: [Your Name](https://www.linkedin.com/in/ioannis-mazanis-13b48118b)  
+- GitHub: [YourUsername](https://github.com/JohnMazanis)  
 
 ---
 
